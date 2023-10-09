@@ -1,0 +1,13 @@
+
+k
+java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚‡š°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—•Ì¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’»ğøşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§´ÔÒüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éèÍğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´ıƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş–Ç
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ùõ—’
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(µˆœÑ

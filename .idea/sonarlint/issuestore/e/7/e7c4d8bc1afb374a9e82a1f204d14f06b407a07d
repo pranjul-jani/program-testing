@@ -1,0 +1,42 @@
+
+`	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(›ü«¥úÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "String" 17 times.(ôºÚâøÿÿÿÿ
+m	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127j"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+m	java:S127}"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+u
+java:S1149_"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+z
+java:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ê—Ÿùÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ê—Ÿùÿÿÿÿ
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ê—Ÿùÿÿÿÿ
+{
+java:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ê—Ÿùÿÿÿÿ
+?
+java:S3010	"$Remove this assignment of "columns".(„Ú·Éøÿÿÿÿ
+J
+java:S1481&"/Remove this unused "expression" local variable.(×ê™„ÿÿÿÿÿ
+@
+java:S1481'"*Remove this unused "test1" local variable.(œò ™
+@
+java:S1481)"*Remove this unused "test2" local variable.(éÕ‡Å
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(©âĞˆüÿÿÿÿ
+m
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(Ã©¸áüÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(©ò¯üÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(Ì–ØÆ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ªŠüüÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(‡´ÙÛ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(¥ì«­øÿÿÿÿ
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(æÔ›ñ
